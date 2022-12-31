@@ -10,7 +10,7 @@
     "@lingui/macro": "^2.7.3",
     "@storybook/addon-actions": "5.1.9",
     "@storybook/addon-links": "5.1.9",
-    "@storybook/react": "5.1.9",
+    "@storybook/react": "6.5.15",
     "babel-core": "^7.0.0-bridge.0",
     "babel-loader": "8.0.5",
     "flow-bin": "^0.92.0",
@@ -19,11 +19,11 @@
     "follow-redirects": "^1.2.3",
     "iso-639-1": "^2.0.3",
     "prettier": "1.15.3",
-    "react-scripts": "2.1.4",
+    "react-scripts": "5.0.1",
     "recursive-readdir": "^2.2.2",
     "shelljs": "^0.7.7",
     "unzipper": "^0.9.11",
-    "webpack": "4.28.3"
+    "webpack": "5.75.0"
   },
   "dependencies": {
     "@blueprintjs/core": "file:src/Utils/BlueprintJsPlaceholder",
